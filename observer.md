@@ -66,7 +66,7 @@ class PostObserver
         }
 
         // Action 2: Send a notification email (simplified)
-        // Mail::to($post->user)->send(new PostCreatedNotification($post));
+        Mail::to($post->user)->send(new PostCreatedNotification($post));
 
         // Note: The Post model doesn't know or care about these actions.
     }
