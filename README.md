@@ -13,6 +13,9 @@ The goal is to provide clear, ready-to-use examples for writing clean, modular, 
 3.  **Behavioral Patterns:** (Repository, Observer)
 4.  **Laravel Core Concepts:** (Service Container)
 
+## Full Youtube playlist 
+
+visit this link : https://www.youtube.com/playlist?list=PLAMIF3kktDKN_h0a66h-0wWF-7HMX3i_P
 -----
 
 ## 🌟 Patterns & Concepts at a Glance
